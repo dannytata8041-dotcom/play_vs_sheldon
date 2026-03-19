@@ -1,0 +1,12 @@
+{
+  "members": [
+    {
+      "name": "Alice",
+      "allergens": ["peanuts", "tree nuts"]
+    },
+    {
+      "name": "Bob",
+      "allergens": ["gluten"]
+    }
+  ]
+}

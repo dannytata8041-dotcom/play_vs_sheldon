@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.db
+weights/*.pt
+weights/*.onnx
+thumbnails/
+alerts.log
+.env
+.claude/
+CLAUDE.md
+config/camera.json
