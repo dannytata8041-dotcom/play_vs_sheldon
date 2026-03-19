@@ -2,7 +2,7 @@ __pycache__/
 *.pyc
 *.db
 weights/*.pt
-weights/*.onnx
+weights/yolo11n-pose-hands.onnx
 thumbnails/
 alerts.log
 .env
